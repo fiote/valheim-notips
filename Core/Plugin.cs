@@ -3,7 +3,7 @@ using HarmonyLib;
 using System.Reflection;
 
 namespace NoTips {
-	[BepInPlugin("fiote.mods.notips", "NoTips", "0.0.1")]
+	[BepInPlugin("fiote.mods.notips", "NoTips", "0.0.2")]
 
 	public class NoTips : BaseUnityPlugin {
 		private void Awake() {
