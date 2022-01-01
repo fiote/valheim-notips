@@ -1,4 +1,4 @@
-[WORKS ON HEART & HOME] https://www.nexusmods.com/valheim/mods/1677
+[WORKS ON HEARTH & HOME] https://www.nexusmods.com/valheim/mods/1677
 
 # No Tips From Hugin The Raven
 Disable those pesky raven tips.
