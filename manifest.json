@@ -1,0 +1,8 @@
+﻿{
+    "name": "NoTips",
+    "version_number": "0.1",
+    "website_url": "https://github.com/fiote",
+    "description": "[H&H] Disable those pesky raven tips.",
+    "dependencies": [
+    ]
+}
